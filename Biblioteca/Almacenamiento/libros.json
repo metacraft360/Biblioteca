@@ -1,8 +1,16 @@
 [
     {
-        "Harry Potter": [
+        "La torre, el valle de los lobos": [
+            "Pablo",
+            2,
+            "Disponible"
+        ]
+    },
+    {
+        "Harry Potter, la piedra filosofal": [
             "J.K. Rowling",
-            1
+            1,
+            "Disponible"
         ]
     }
 ]

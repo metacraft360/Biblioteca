@@ -16,12 +16,12 @@ while elegir_accion:
             mi_libro.añadir_libro()
         elif accion == 3:
             mi_biblioteca.mostrar_clientes()
-        elif accion == 2:
-            pass
-        elif accion == 2:
-            pass
-        elif accion == 2:
-            pass
+        elif accion == 4:
+            mi_biblioteca.mostrar_libros()
+        elif accion == 5:
+            mi_biblioteca.prestar_libro()
+        elif accion == 6:
+            mi_biblioteca.devolver_libro()
         elif accion == 7:
             elegir_accion = False
         else:

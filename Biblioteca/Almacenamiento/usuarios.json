@@ -1,14 +1,20 @@
 [
     {
         "Pablo Vales": [
-            ["Harry Potter", "Dune"],
+            [],
             "1"
         ]
     },
     {
         "Luis Vales": [
-            ["Pito", "Caca"],
+            [],
             "2"
+        ]
+    },
+    {
+        "Aaron Vali\u00f1as": [
+            [],
+            "3"
         ]
     }
 ]
